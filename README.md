@@ -16,6 +16,7 @@ pip install -r requirements.txt
 
 * Snopes: http://resources.mpi-inf.mpg.de/impact/dl_cred_analysis/Snopes.zip
 * PolitiFact: http://resources.mpi-inf.mpg.de/impact/dl_cred_analysis/PolitiFact.zip
+
 Our SnopesE is in data folder `SnopesE`.
 
 ## Usage
